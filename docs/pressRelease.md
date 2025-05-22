@@ -23,7 +23,7 @@ The Anti-EULA template is free for anyone to use, modify, and enforce. It exists
 fairness that corporations cannot override.
 
 How to Get Involved
-GitHub Repo: [Link to Repository]
+GitHub Repo: https://github.com/AntiEULAInitiative
 
 Help Shape the Framework – Join discussions on consumer protections and legal enforcement.
 
